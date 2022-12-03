@@ -9,12 +9,11 @@ Hoodoqani/Hoodoqani is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <h1 align="center">Hi 👋, I'm Hoodo Mahamed</h1>
 <h3 align="center">A passionate frontend developer from Somaliland</h3>
 
-<img align="right" alt="Coding" width="400" src="https://developertanjirul.com/wp-content/uploads/2022/08/intro-section.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colhaye&label=Profile%20views&color=0e75b6&style=flat" alt="colhaye" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colhaye" alt="colhaye" /></a> </p>
 
